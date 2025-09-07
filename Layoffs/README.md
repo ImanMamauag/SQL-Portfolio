@@ -6,4 +6,4 @@ I prepared the raw dataset through standard cleaning processes, and analyzed the
 
 + SQL Skills Used: Table Creation, Data Insertion, Removing Duplicates, Data Type Conversion, Common Table Expressions (CTEs), String Manipulation, Window Functions, Aggregations, Group By, Joins, Window Functions, Date Functions.
 + View Data Cleaning SQL Script
-+ View [Exploratory Data Analysis SQL Script](Layoffs/Layoffs/layoffs_dataCleaningProject.sql)
++ View [Exploratory Data Analysis SQL Script](layoffs_dataCleaningProject.sql)
